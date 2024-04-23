@@ -789,9 +789,9 @@ tenacity = "^8.1.0"
 
 [package.source]
 type = "git"
-url = "https://github.com/Suselfluf/langchain.git"
+url = "https://github.com/Void0dev/langchain.git"
 reference = "HEAD"
-resolved_reference = "8c7bb0cab73d66dae7d4691d53ba286c740040ef"
+resolved_reference = "4294585cfd5fee59abd898663073da656dda4d82"
 
 [[package]]
 name = "langchain-community"
@@ -3244,4 +3244,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8.1,<4.0"
-content-hash = "cad3967a14e41af762e1754524affef530b58e8723c92f758d73da54b357c079"
+content-hash = "f26d7a19e8f0210520e58e423d4229ea5535af712f2fd1390a846254e76106c2"
